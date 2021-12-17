@@ -19,7 +19,7 @@ import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
 
 @Configuration
-public class JpaConfig {
+public class MySQLConfig {
 
     private final Gson gson = new Gson();
 

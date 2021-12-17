@@ -1,0 +1,1 @@
+# Implement AWS Secrets Manager on Spring Boot Application
